@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi I'm Aditya
 
-<!--
-**Aditya22-smart/Aditya22-smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Full-Stack Web Developer (MERN)  
+🌱 Open Source Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+**Programming Languages**
+- Python
+- Java
+- C / C++
+
+**Web Development**
+- HTML, CSS, JavaScript
+- MongoDB, Express.js, React.js, Node.js (MERN)
+
+**Core CS Subjects**
+- Operating Systems
+- DBMS
+- SQL
+
+**Tools & Environment**
+- Git & GitHub
+- Linux (WSL)
+- VS Code
+
+---
+
+### 🚀 What I'm Currently Working On
+- Contributing to Open Source 
+- Improving DSA & problem-solving skills
+- Building full-stack projects using MERN
+
+---
+
+### 🎯 Goals
+- Become a strong Software Engineer
+- Crack high-impact internships
+- Contribute consistently to open source
+
+---
+
+### 📫 Connect With Me
+- GitHub: https://github.com/Aditya22-smart
+- LinkedIn: https://www.linkedin.com/in/aditya-lakhotia-439a43330/
